@@ -5,7 +5,7 @@
 ![image](/Imagenes/2.png)
 
 ### Integrantes
-![image](/Imagenes/1.png)
+![image](/Imagenes/3.png)
 
 ### Catálogo de productos
-![image](/Imagenes/3.png)
+![image](/Imagenes/1.png)
